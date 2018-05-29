@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

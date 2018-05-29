@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_image">
+    <ImageView
+        android:layout_weight="1"
+        android:src="@drawable/banner3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:scaleType="fitXY"/>
+    <TextView
+        android:id="@+id/school_text_notice"
+        android:paddingTop="30dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="15dp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ourSchool"
+        android:scrollbars="vertical"
+        android:textSize="20sp"
+        android:lineSpacingExtra="9dp"
+        android:textColor="#000000"/>
+</LinearLayout>

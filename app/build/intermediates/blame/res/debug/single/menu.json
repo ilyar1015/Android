@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_actions.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\know\\menu\\menu_actions.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

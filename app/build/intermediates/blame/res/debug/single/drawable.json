@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\illya.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\illya.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\school_new_1.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\school_new_1.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talkbutton.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\talkbutton.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wuli.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\wuli.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\meishu.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\meishu.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ins.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\ins.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\konstantin.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\konstantin.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_color.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\list_bg_color.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huaxue.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\huaxue.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner1.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\banner1.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\andriy.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\andriy.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\school_new.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\school_new.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chuanmei.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\chuanmei.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touming.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\touming.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anastasia.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\anastasia.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyu.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\jiaoyu.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_orange_circle.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_orange_circle.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\list_divider.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jisuanji.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\jisuanji.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vadim.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\vadim.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jj.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\jj.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yanjiusheng.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\yanjiusheng.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\text.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nicolas_cage.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\nicolas_cage.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makesi.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\makesi.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyujishu.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\jiaoyujishu.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner2.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\banner2.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lvyou.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\lvyou.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\institute_new.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\institute_new.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kirill.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\kirill.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lishi.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\lishi.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notice.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\notice.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oleksii.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\oleksii.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jingji.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\jingji.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk_new.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\talk_new.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_setting_btn_np.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\main_setting_btn_np.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_orange_oval.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_orange_oval.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenxue.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\wenxue.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shehui.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\shehui.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ed.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\ed.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shuxue.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\shuxue.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\institute.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\institute.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiyu.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\tiyu.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner5.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\banner5.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo_background.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\lo_background.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\know_new_1.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\know_new_1.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shangxue.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\shangxue.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dmitry_96.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\dmitry_96.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doyouknow.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\doyouknow.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\school.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\school.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\waiyu.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\waiyu.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner4.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\banner4.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_with_radius.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\know\\drawable\\shape_rectangle_with_radius.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\institute_new_1.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\institute_new_1.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notice_new.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\notice_new.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_black_oval.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_black_oval.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wudao.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\wudao.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\faxue.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\faxue.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yinyue.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\yinyue.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dili.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\dili.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shengming.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\shengming.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guoji.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\guoji.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xinli.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\xinli.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pavel.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\pavel.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\know_new.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\know_new.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_image.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\background_image.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_p.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\setting_p.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dmitriy.jpg",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\dmitriy.jpg"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk_button2.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\talk_button2.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dunhuang.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\institute\\drawable\\dunhuang.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner3.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\banner3.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notice_new_1.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable\\notice_new_1.png"
+    }
+]

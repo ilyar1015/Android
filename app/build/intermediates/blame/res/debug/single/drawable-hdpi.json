@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left.9.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable-hdpi\\left.9.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right1.9.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable-hdpi\\right1.9.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\boy.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable-hdpi\\boy.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left1.9.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable-hdpi\\left1.9.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.9.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable-hdpi\\right.9.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\girl.png",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\res\\drawable-hdpi\\girl.png"
+    }
+]

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Code\androidApp\SpeechDemo1\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\pre-dexed\debug\Msc_e2cd0aa85897b6e0b71ff1486068f5fa3efa4d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Code\androidApp\SpeechDemo1\cardstack\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64677e007d1fa01dd28c867e86968b8b7068b305">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\pre-dexed\debug\classes_8831b4bd26d46499d5d199137ff58b58cc94a23e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Code\androidApp\SpeechDemo1\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d2d4e1bba6460d604a8989cbcc3e4508ddabb18">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_c37ab09037e2dcdafab3b0bef02cd7c34decd3ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Code\androidApp\SpeechDemo1\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="185a6fbd8037be40ab01ed24109b33242d184853">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\pre-dexed\debug\classes_366df88497152e5b0ee0c23459ee6a3e7be5eae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Code\androidApp\SpeechDemo1\app\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d2d4e1bba6460d604a8989cbcc3e4508ddabb18">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\pre-dexed\debug\Sunflower_c37ab09037e2dcdafab3b0bef02cd7c34decd3ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_451d756720c25c6cf1928f6409fb7a76478c4763\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Code\androidApp\SpeechDemo1\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_e2cd0aa85897b6e0b71ff1486068f5fa3efa4d8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fba46151b86f1d5befc954424cedb72bf6d14b6">
+        <dex dex="E:\Code\androidApp\SpeechDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_185678f7cefe60a775751f35b9f42532e2fe863b\classes.dex" />
+    </item>
+
+</items>

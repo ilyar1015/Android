@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '25.0.2'
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "com.iflytek.voicedemo"
+        minSdkVersion 10
+        targetSdkVersion 26
+    }
+
+    sourceSets{
+        main{
+            res.srcDirs=
+                    [
+                            'src/main/res',
+                            'src/main/institute',
+                            'src/main/know'
+                    ]
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+}
+
+repositories {
+    maven {
+        url "https://jitpack.io"
+    }
+}
+
+
+dependencies {
+    //noinspection GradleCompatible
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile files('libs/Msc.jar')
+    compile files('libs/Sunflower.jar')
+    compile 'org.apache.httpcomponents:httpcore:4.3.2'
+    compile project(':library')
+    compile project(':cardstack')
+}

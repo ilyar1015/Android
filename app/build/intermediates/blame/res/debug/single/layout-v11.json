@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\list_card_item_larger_header.xml",
+        "source": "E:\\Code\\androidApp\\SpeechDemo1\\app\\src\\main\\know\\layout-v11\\list_card_item_larger_header.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Code\\androidApp\\SpeechDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ilyar\\.android\\build-cache\\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]

@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:6:5-40
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:8:5-72:19
+MERGED from [SpeechDemo1:library:unspecified] E:\Code\androidApp\SpeechDemo1\library\build\intermediates\bundles\default\AndroidManifest.xml:9:5-47
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] C:\Users\ilyar\.android\build-cache\18dec347d5dc9822c33f00ee156ba9a0e2e86a4b\output\AndroidManifest.xml:10:5-20
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\ilyar\.android\build-cache\f0ea16a094181ab35261f14783ec6def14bda9cd\output\AndroidManifest.xml:26:5-27:19
+MERGED from [com.loopeer.library:cardstack:1.0.2] E:\Code\androidApp\SpeechDemo1\cardstack\build\intermediates\bundles\default\AndroidManifest.xml:9:5-12:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ilyar\.android\build-cache\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ilyar\.android\build-cache\ea52a23a5c6ff18bc99e7163ebdc9da91567a940\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ilyar\.android\build-cache\f33a61ff514bb4b7cec0ec0abdb4124aeb68e3ff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ilyar\.android\build-cache\2f97ca8cc409bc4e84cc242f54fd96ae975a3655\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ilyar\.android\build-cache\ed87dcfe2702dda7e58d9946626182040ab380d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ilyar\.android\build-cache\6631a7e6a326180d7f094f246a0451e30497346e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ilyar\.android\build-cache\27026cf4af19b30c8b2d52a18243bbeacd143b44\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ilyar\.android\build-cache\3c8544ca58c1c3f62043256e584f4667df927376\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ilyar\.android\build-cache\51b2dd9f64a430183962910059d0adbd598e6e70\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:11:9-31
+	android:supportsRtl
+		ADDED from [com.loopeer.library:cardstack:1.0.2] E:\Code\androidApp\SpeechDemo1\cardstack\build\intermediates\bundles\default\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from [SpeechDemo1:library:unspecified] E:\Code\androidApp\SpeechDemo1\library\build\intermediates\bundles\default\AndroidManifest.xml:9:18-44
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:10:9-33
+activity#com.iflytek.voicedemo.MainActivity
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:13:9-24:20
+	android:screenOrientation
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:17:13-35
+	android:configChanges
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:15:13-133
+	android:icon
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:16:13-42
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:14:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.iflytek.speech.setting.TtsSettings
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:25:19-72
+activity#com.iflytek.speech.setting.IatSettings
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:27:19-72
+activity#com.iflytek.voicedemo.IatDemo
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:screenOrientation
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:31:13-133
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:30:13-57
+activity#com.iflytek.voicedemo.TtsDemo
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:34:9-38:20
+	android:screenOrientation
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:37:13-49
+	android:configChanges
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:36:13-133
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:35:13-57
+activity#com.institute.Institute
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:39:9-44:20
+	android:screenOrientation
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:41:13-133
+	android:theme
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:43:13-60
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:40:13-51
+activity#com.notice.WebNoticePage
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:45:9-50:20
+	android:screenOrientation
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:48:13-49
+	android:configChanges
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:47:13-133
+	android:theme
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:49:13-60
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:46:13-52
+activity#com.school.SchoolNotice
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:51:9-56:20
+	android:screenOrientation
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:54:13-49
+	android:configChanges
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:53:13-133
+	android:theme
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:55:13-60
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:52:13-51
+activity#com.know.ActiveKnow
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:57:9-61:20
+	android:screenOrientation
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:60:13-49
+	android:configChanges
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:59:13-133
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:58:13-47
+meta-data#IFLYTEK_APPKEY
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:64:9-66:42
+	android:value
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:66:13-29
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:65:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:67:9-69:44
+	android:value
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:69:13-41
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:68:13-43
+uses-sdk
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:74:5-75:78
+MERGED from [SpeechDemo1:library:unspecified] E:\Code\androidApp\SpeechDemo1\library\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] C:\Users\ilyar\.android\build-cache\18dec347d5dc9822c33f00ee156ba9a0e2e86a4b\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\ilyar\.android\build-cache\f0ea16a094181ab35261f14783ec6def14bda9cd\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.loopeer.library:cardstack:1.0.2] E:\Code\androidApp\SpeechDemo1\cardstack\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ilyar\.android\build-cache\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ilyar\.android\build-cache\ea52a23a5c6ff18bc99e7163ebdc9da91567a940\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ilyar\.android\build-cache\f33a61ff514bb4b7cec0ec0abdb4124aeb68e3ff\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ilyar\.android\build-cache\2f97ca8cc409bc4e84cc242f54fd96ae975a3655\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ilyar\.android\build-cache\ed87dcfe2702dda7e58d9946626182040ab380d5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ilyar\.android\build-cache\6631a7e6a326180d7f094f246a0451e30497346e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ilyar\.android\build-cache\27026cf4af19b30c8b2d52a18243bbeacd143b44\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ilyar\.android\build-cache\3c8544ca58c1c3f62043256e584f4667df927376\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ilyar\.android\build-cache\51b2dd9f64a430183962910059d0adbd598e6e70\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:75:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:74:15-40
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:77:5-71
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:77:22-68
+uses-permission#android.permission.INTERNET
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:78:5-67
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:78:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:79:5-79
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:79:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:80:5-76
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:80:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:81:5-79
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:81:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:82:5-75
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:82:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:83:5-79
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:83:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:84:5-72
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:84:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:85:5-81
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:85:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:86:2-70
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:86:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:87:2-77
+	android:name
+		ADDED from E:\Code\androidApp\SpeechDemo1\app\src\main\AndroidManifest.xml:87:19-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ilyar\.android\build-cache\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ilyar\.android\build-cache\ea52a23a5c6ff18bc99e7163ebdc9da91567a940\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ilyar\.android\build-cache\f33a61ff514bb4b7cec0ec0abdb4124aeb68e3ff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ilyar\.android\build-cache\2f97ca8cc409bc4e84cc242f54fd96ae975a3655\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ilyar\.android\build-cache\ed87dcfe2702dda7e58d9946626182040ab380d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ilyar\.android\build-cache\6631a7e6a326180d7f094f246a0451e30497346e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ilyar\.android\build-cache\27026cf4af19b30c8b2d52a18243bbeacd143b44\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ilyar\.android\build-cache\3c8544ca58c1c3f62043256e584f4667df927376\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ilyar\.android\build-cache\51b2dd9f64a430183962910059d0adbd598e6e70\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ilyar\.android\build-cache\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ilyar\.android\build-cache\d257bc1ba35be7bc79b06524c3c6fd6dc4394164\output\AndroidManifest.xml:26:9-47
